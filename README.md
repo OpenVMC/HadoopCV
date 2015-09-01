@@ -11,6 +11,7 @@
 
 3.测试org.openvmc.spark.InputFormatTest 测试使用Spark 是否能读取视频内容。
 
+##交流QQ群:279386798
 
 ##软件许可
  OpenVMC-HadoopCV 由中国大数据公司红象云腾（RedHadoop）发起并贡献于开源社区,项目遵循Apache 2.0 协议。
