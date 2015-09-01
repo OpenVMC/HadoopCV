@@ -6,7 +6,9 @@
 
 ##测试方法
 1.配置 opencv-249.jar的 native library: data\opencv\
+
 2.测试 org.openvmc.test.VideoReaderTest 测试 使用Java 是否能读取视频内容。
+
 3.测试org.openvmc.spark.InputFormatTest 测试使用Spark 是否能读取视频内容。
 
 
