@@ -11,4 +11,4 @@
 
 
 ##软件许可
- OpenVMC-HadoopCV 由中国大数据公司红象云腾（RedHadoop）发起并贡献于开源社区,项目遵循GPL3.0协议。
+ OpenVMC-HadoopCV 由中国大数据公司红象云腾（RedHadoop）发起并贡献于开源社区,项目遵循Apache 2.0 协议。
